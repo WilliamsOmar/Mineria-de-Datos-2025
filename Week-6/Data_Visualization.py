@@ -6,7 +6,7 @@ from scipy import stats
 from sklearn.preprocessing import LabelEncoder
 
 # Cargar datos
-df = pd.read_csv('PS_2025.11.03_17.08.05.csv', comment='#')
+df = pd.read_csv('Dataset\PS_2025.11.03_17.08.05.csv', comment='#')
 
 # Configuración de gráficos
 plt.style.use('seaborn-v0_8')
