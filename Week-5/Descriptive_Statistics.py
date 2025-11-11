@@ -15,7 +15,7 @@ Planeta → Publicado en → Fecha (releasedate)
 """
 
 # Cargar datos
-df = pd.read_csv('PS_2025.11.03_17.08.05.csv', comment='#')
+df = pd.read_csv('Dataset\PS_2025.11.03_17.08.05.csv', comment='#')
 
 print("=== ESTADÍSTICAS DESCRIPTIVAS ===")
 print(f"Total de registros: {len(df)}/n")
