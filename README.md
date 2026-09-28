@@ -28,7 +28,7 @@ Los análisis se realizan sobre el **Archivo de Exoplanetas de la NASA**, dispon
 ## 🛠️ Tecnologías y Herramientas
 
 - **Lenguaje**: Python 100%
-- **Bibliotecas comúnmente utilizadas** (inferido por el contexto del curso):
+- **Bibliotecas utilizadas**:
   - `pandas` - Manipulación y análisis de datos
   - `numpy` - Cálculo numérico
   - `matplotlib` / `seaborn` - Visualización
